@@ -1,0 +1,14 @@
+D:\Bootcamp\week-3-assignment-yasingul-master\Week3Assignment\ThreeLayer.Data\bin\Debug\net6.0\ThreeLayer.Data.deps.json
+D:\Bootcamp\week-3-assignment-yasingul-master\Week3Assignment\ThreeLayer.Data\bin\Debug\net6.0\ThreeLayer.Data.runtimeconfig.json
+D:\Bootcamp\week-3-assignment-yasingul-master\Week3Assignment\ThreeLayer.Data\bin\Debug\net6.0\ThreeLayer.Data.dll
+D:\Bootcamp\week-3-assignment-yasingul-master\Week3Assignment\ThreeLayer.Data\bin\Debug\net6.0\ThreeLayer.Data.pdb
+D:\Bootcamp\week-3-assignment-yasingul-master\Week3Assignment\ThreeLayer.Data\obj\Debug\net6.0\ThreeLayer.Data.csproj.AssemblyReference.cache
+D:\Bootcamp\week-3-assignment-yasingul-master\Week3Assignment\ThreeLayer.Data\obj\Debug\net6.0\ThreeLayer.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp\week-3-assignment-yasingul-master\Week3Assignment\ThreeLayer.Data\obj\Debug\net6.0\ThreeLayer.Data.AssemblyInfoInputs.cache
+D:\Bootcamp\week-3-assignment-yasingul-master\Week3Assignment\ThreeLayer.Data\obj\Debug\net6.0\ThreeLayer.Data.AssemblyInfo.cs
+D:\Bootcamp\week-3-assignment-yasingul-master\Week3Assignment\ThreeLayer.Data\obj\Debug\net6.0\ThreeLayer.Data.csproj.CoreCompileInputs.cache
+D:\Bootcamp\week-3-assignment-yasingul-master\Week3Assignment\ThreeLayer.Data\obj\Debug\net6.0\ThreeLayer.Data.dll
+D:\Bootcamp\week-3-assignment-yasingul-master\Week3Assignment\ThreeLayer.Data\obj\Debug\net6.0\refint\ThreeLayer.Data.dll
+D:\Bootcamp\week-3-assignment-yasingul-master\Week3Assignment\ThreeLayer.Data\obj\Debug\net6.0\ThreeLayer.Data.pdb
+D:\Bootcamp\week-3-assignment-yasingul-master\Week3Assignment\ThreeLayer.Data\obj\Debug\net6.0\ThreeLayer.Data.genruntimeconfig.cache
+D:\Bootcamp\week-3-assignment-yasingul-master\Week3Assignment\ThreeLayer.Data\obj\Debug\net6.0\ref\ThreeLayer.Data.dll
